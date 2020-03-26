@@ -1,0 +1,16 @@
+body {
+  background-color: antiquewhite;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: sienna;
+  border-width: 10px;
+  width: 30%;
+}
+h1 {
+  color: #211717;
+}
+h3 {
+  color: #560d0d;
+}
